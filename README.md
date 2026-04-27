@@ -88,4 +88,6 @@ https://drive.google.com/file/d/1YuojGecvsoFLxjs-sbFecgpmLmjd_1B9/view?usp=shari
 Dashboard Preview<img width="881" height="746" alt="Annotation 2026-04-27 131222" src="https://github.com/user-attachments/assets/b02f6b11-3687-45f9-a411-ce766a760c51" />
 <img width="881" height="746" alt="Annotation 2026-04-27 131222" src="https://github.com/user-attachments/assets/477bd9b7-2d95-4c21-a2ff-e696a4b97950" />
 
+Conclusion
 
+This project demonstrates a complete data analytics pipeline from raw data extraction to actionable business insights. It simulates real-world e-commerce analytics used for improving customer conversion and business performance.
